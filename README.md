@@ -2,6 +2,7 @@
 
 ## Table of Contents
 1. [Description](#description)
+2. [HPC, Parallel Programming & Computing](#hpc)
 
 ## Description <a name="description"></a>
 An archive useful to collect Summer Schools for PhD Students, classified by research field. 
@@ -12,7 +13,7 @@ This project is meant to be a collective archive. If you want to contrubute with
 
 ------
 
-## HPC, Parallel Programming & Computing
+## HPC, Parallel Programming & Computing <a name="hpc"></a>
 * INTERNATIONAL HPC SUMMER SCHOOL: https://www.ihpcss.org
   * Edition for 2025: https://ss25.ihpcss.org 
 * Parallel Computing Summer Research: https://www.lanl.gov/engage/collaboration/internships/summer-schools/parallel-computing-summer-research-internship
