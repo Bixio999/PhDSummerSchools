@@ -19,5 +19,6 @@ This project is meant to be a collective archive. If you want to contrubute with
 * Parallel Computing Summer Research: https://www.lanl.gov/engage/collaboration/internships/summer-schools/parallel-computing-summer-research-internship
 * Cineca Academy Summer School on Parallel Computing: https://eventi.cineca.it/en/hpc/summer-school-parallel-computing
 * CSCS-USI Summer University on Effective High-Performance Computing and Data Analytics: https://www.cscs.ch/events/upcoming-events/event-detail?tx_cscsevents_pi1%5Bcontroller%5D=Event&tx_cscsevents_pi1%5Bevent%5D=185&cHash=8f4466f88dfd8dadae053ff1b185b214
+  * Edition for 2025: https://www.cscs.ch/events/upcoming-events/event-detail?tx_cscsevents_pi1%5Bcontroller%5D=Event&tx_cscsevents_pi1%5Bevent%5D=214&cHash=e1a709e54ccd1572f3e86505b6d64325 
 * EPCC HPC Summer School: https://www.epcc.ed.ac.uk/whats-happening/articles/epcc-hpc-summer-school-2024
 * ACM ASEAN School on High-Performance Computing and Artificial Intelligence: https://europe.acm.org/seasonal-schools/asean/2025
