@@ -5,9 +5,9 @@
 2. [HPC, Parallel Programming & Computing](#hpc)
 
 ## Description <a name="description"></a>
-An archive useful to collect Summer Schools for PhD Students, classified by research field. 
-The goal of this repository is to provide a single source to find links and references to summer schools where PhD Students can enroll and partecipate. 
-For each research field/area, there will be a list to accessible and interesting schools. The aim of this project is to help people find programs and schools, along with a brief description of its topics, the acceptance rate, and their validity for official certification and consequent acknowledgment by the university (currently based on the University of Milan). 
+An archive that serves as a valuable resource for collecting Summer Schools for PhD Students, categorized by research field.
+The primary objective of this repository is to provide a centralized platform for locating links and references to summer schools where PhD Students can enroll and participate.
+For each research field or area, a comprehensive list of accessible and relevant schools will be maintained. The ultimate goal of this project is to assist individuals in identifying programs and schools, along with a concise description of the topics covered. Additionally, the acceptance rate and the validity of these programs for official certification and subsequent acknowledgment by the university (currently based on the University of Milan) will be provided. 
 
 This project is meant to be a collective archive. If you want to contrubute with other summer schools not yet listed or related to your research area, please feel free to pull request this repository. 
 
