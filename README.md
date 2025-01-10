@@ -3,6 +3,7 @@
 ## Table of Contents
 1. [Description](#description)
 2. [HPC, Parallel Programming & Computing](#hpc)
+3. [Cryptography and Applied Mathematics](#cry)
 
 ## Description <a name="description"></a>
 An archive that serves as a valuable resource for collecting Summer Schools for PhD Students, categorized by research field.
@@ -22,3 +23,15 @@ This project is meant to be a collective archive. If you want to contrubute with
   * Edition for 2025: https://www.cscs.ch/events/upcoming-events/event-detail?tx_cscsevents_pi1%5Bcontroller%5D=Event&tx_cscsevents_pi1%5Bevent%5D=214&cHash=e1a709e54ccd1572f3e86505b6d64325 
 * EPCC HPC Summer School: https://www.epcc.ed.ac.uk/whats-happening/articles/epcc-hpc-summer-school-2024
 * ACM ASEAN School on High-Performance Computing and Artificial Intelligence: https://europe.acm.org/seasonal-schools/asean/2025
+
+------
+
+## Cryptography and Applied Mathematics <a name="cry"></a>
+* Summer School on real-world crypto and privacy 2025: https://summerschool-croatia.cs.ru.nl/2025/
+* SuSAAN Summer School of Applied Arithmetic at Nesin, Turkey:
+  -general information at: https://cimpa.info/en/node/7066
+  -list of activities at: https://susaan.inria.fr/scientific-groups/
+  
+The following are links to repository of summer school/seminars.
+* International Association for Cryptologic Research: https://iacr.org/schools/
+* Schloss Dagstuhl, Leibniz Center for Informatics: https://www.dagstuhl.de/en/seminars/seminar-calendar
