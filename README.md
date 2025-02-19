@@ -4,6 +4,7 @@
 1. [Description](#description)
 2. [HPC, Parallel Programming & Computing](#hpc)
 3. [Cryptography and Applied Mathematics](#cry)
+4. [Mathematical Optimization](#matopt)
 
 ## Description <a name="description"></a>
 An archive that serves as a valuable resource for collecting Summer Schools for PhD Students, categorized by research field.
@@ -35,3 +36,8 @@ This project is meant to be a collective archive. If you want to contrubute with
 The following are links to repository of summer school/seminars.
 * International Association for Cryptologic Research: https://iacr.org/schools/
 * Schloss Dagstuhl, Leibniz Center for Informatics: https://www.dagstuhl.de/en/seminars/seminar-calendar
+
+## Mathematical Optimization <a name="matopt"></a>
+* 2025 School on Column Generation: https://www.gerad.ca/colloques/ColumnGeneration2025/
+
+Topics to be covered include: Basic theory (decompositions, reformulations, convexification, discretization, etc.), vehicle routing and crew scheduling applications, shortest path subproblems, column generation heuristics, master problem issues (stabilization, aggregation), branching and cutting
