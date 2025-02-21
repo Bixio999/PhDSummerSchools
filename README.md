@@ -41,3 +41,4 @@ The following are links to repository of summer school/seminars.
 * 2025 School on Column Generation: https://www.gerad.ca/colloques/ColumnGeneration2025/
 
 Topics to be covered include: Basic theory (decompositions, reformulations, convexification, discretization, etc.), vehicle routing and crew scheduling applications, shortest path subproblems, column generation heuristics, master problem issues (stabilization, aggregation), branching and cutting
+* EURO Working Group on Vehicle Routing and Logistics Optimization: https://verolog2025.unitn.it
