@@ -16,10 +16,6 @@ This project is meant to be a collective archive. If you want to contrubute with
 
 ------
 
-
-## Serious Games <a name="sergames"></a>
-* Design of Serious Games: https://summerschool.tlu.ee/design-of-serious-games/
-
 ## HPC, Parallel Programming & Computing <a name="hpc"></a>
 * INTERNATIONAL HPC SUMMER SCHOOL: https://www.ihpcss.org
   * Edition for 2025: https://ss25.ihpcss.org 
@@ -46,3 +42,7 @@ The following are links to repository of summer school/seminars.
 
 Topics to be covered include: Basic theory (decompositions, reformulations, convexification, discretization, etc.), vehicle routing and crew scheduling applications, shortest path subproblems, column generation heuristics, master problem issues (stabilization, aggregation), branching and cutting
 * EURO Working Group on Vehicle Routing and Logistics Optimization: https://verolog2025.unitn.it
+
+
+## Serious Games <a name="sergames"></a>
+* Design of Serious Games: https://summerschool.tlu.ee/design-of-serious-games/
