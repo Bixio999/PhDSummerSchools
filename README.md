@@ -5,6 +5,7 @@
 2. [HPC, Parallel Programming & Computing](#hpc)
 3. [Cryptography and Applied Mathematics](#cry)
 4. [Mathematical Optimization](#matopt)
+5. [Serious Games] (#sergames)
 
 ## Description <a name="description"></a>
 An archive that serves as a valuable resource for collecting Summer Schools for PhD Students, categorized by research field.
@@ -14,6 +15,8 @@ For each research field or area, a comprehensive list of accessible and relevant
 This project is meant to be a collective archive. If you want to contrubute with other summer schools not yet listed or related to your research area, please feel free to pull request this repository. 
 
 ------
+## Serious Games <a name="sergames"></a>
+* Design of Serious Games: https://summerschool.tlu.ee/design-of-serious-games/
 
 ## HPC, Parallel Programming & Computing <a name="hpc"></a>
 * INTERNATIONAL HPC SUMMER SCHOOL: https://www.ihpcss.org
