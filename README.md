@@ -6,6 +6,7 @@
 3. [Cryptography and Applied Mathematics](#cry)
 4. [Mathematical Optimization](#matopt)
 5. [Serious Games](#sergames)
+6. [Logic, Language and Information](#logic)
 
 ## Description <a name="description"></a>
 An archive that serves as a valuable resource for collecting Summer Schools for PhD Students, categorized by research field.
@@ -46,3 +47,6 @@ Topics to be covered include: Basic theory (decompositions, reformulations, conv
 
 ## Serious Games <a name="sergames"></a>
 * Design of Serious Games: https://summerschool.tlu.ee/design-of-serious-games/
+
+## Logic, Language and Information <a name="logic"></a>
+* European Summer School in Logic, Language and Information (ESSLLI): https://2026.esslli.eu/
